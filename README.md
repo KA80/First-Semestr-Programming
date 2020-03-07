@@ -1,4 +1,4 @@
-# first-semestr-programming
+# Языки и методы программирования - C
 
 #### Задачи по ЯиМПу за первый семестр:
   * [A - Брокер](https://imcs.dvfu.ru/cats/static/problem_text-cpid-2626600.html?sid=0pldFRSjbbaX85eYoG3hRioqMpy938)			OK   
