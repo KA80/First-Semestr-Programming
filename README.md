@@ -13,3 +13,4 @@
   * [Grep.c](https://pastebin.com/meVSkfEL)			10/10
   * Найти максимум в массиве +
       Количество слов в строке 10/10
+#### [Google Таблица](https://docs.google.com/spreadsheets/d/1o5GuctxA_azBkCr_GElSmV1gf8mLABulNWlF0AUyJSw/edit#gid=0)
