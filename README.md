@@ -1,7 +1,7 @@
 # first-semestr-programming
 
 Задачи по ЯиМПу за первый семестр:
-  * broker.c                   OK		   
+  * broker.c                   OK(#222222)		   
   * bada.c                     OK
   * fense.c                    OK       
   * mushrooms.c                OK 
