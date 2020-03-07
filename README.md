@@ -1,6 +1,6 @@
 # first-semestr-programming
 
-Задачи по ЯиМПу за первый семестр
+Задачи по ЯиМПу за первый семестр:
   * broker.c                   OK
   * bada.c                     OK
   * fense.c                    OK
