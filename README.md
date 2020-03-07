@@ -11,4 +11,3 @@
   * street lights.c		OK
   * vasya and minds.c		OK
   * grep.c			10/10
-  
