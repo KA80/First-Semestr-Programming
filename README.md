@@ -11,3 +11,5 @@
   * [H - Фонари](https://imcs.dvfu.ru/cats/static/problem_text-cpid-2764657.html?sid=0pldFRSjbbaX85eYoG3hRioqMpy938)		OK
   * [K - Lin-log sort 2](https://imcs.dvfu.ru/cats/static/problem_text-cpid-2735062.html?sid=0pldFRSjbbaX85eYoG3hRioqMpy938)		OK
   * [Grep.c](https://pastebin.com/meVSkfEL)			10/10
+  * Найти максимум в массиве +
+      Количество слов в строке 10/10
