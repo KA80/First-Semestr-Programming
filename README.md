@@ -10,4 +10,4 @@
   * [G - Вася и мысли](https://imcs.dvfu.ru/cats/static/problem_text-cpid-2626602.html?sid=0pldFRSjbbaX85eYoG3hRioqMpy938)		OK
   * [H - Фонари](https://imcs.dvfu.ru/cats/static/problem_text-cpid-2764657.html?sid=0pldFRSjbbaX85eYoG3hRioqMpy938)		OK
   * [K - Lin-log sort 2](https://imcs.dvfu.ru/cats/static/problem_text-cpid-2735062.html?sid=0pldFRSjbbaX85eYoG3hRioqMpy938)		OK
-  * grep.c			10/10
+  * [Grep.c](https://pastebin.com/meVSkfEL)			10/10
